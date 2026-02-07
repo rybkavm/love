@@ -43,7 +43,7 @@ const ErrorModal = ({ isOpen, onClose }: ErrorModalProps) => {
 
             {/* Message */}
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              Пожалуйста, выберите <span className="text-primary font-bold">«ДА»</span> ❤️
+              Пожалуйста, выбери <span className="text-primary font-bold">«ДА»</span> ❤️
             </p>
 
             {/* Decorative divider */}
